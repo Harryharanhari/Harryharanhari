@@ -18,7 +18,7 @@
 - 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science**, Achariya College of Engineering & Technology, Puducherry (CGPA 8.50, graduating 2027)
 - 🔐 Deeply interested in both **offensive and defensive cybersecurity**, with a growing research focus on **LLM security** (prompt injection, jailbreak defense, adversarial robustness)
 - 🛰️ Actively building across the stack — AI/ML systems, Agentic AI, Gen AI, AI full-stack web apps, and security tooling
-- 🎯 Open to roles in **Data Analysis, Full-Stack AI Engineering, and SOC Analysis**
+- 🎯 Open to roles in **Data Analysis, Full-Stack AI Engineering, Machine Learning Engineer, Agentic AI Developer and SOC Analysis**
 - 🏆 Regular hackathon competitor, using it as an outlet to ship applied AI work fast
 
 ---

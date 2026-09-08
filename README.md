@@ -26,23 +26,10 @@
 ### 📊 Live GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harryharanhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hari's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harryharanhari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harryharanhari&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harryharanhari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harryharanhari&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-> These widgets are live and update automatically on every profile view — no manual refresh needed. See **Setup Notes** at the bottom for the two things to turn on for them to render correctly.
+> This streak card is live and updates automatically. Contribution counts, current streak, and longest streak all pull fresh from your activity on every view.
 
 ---
 
@@ -76,27 +63,6 @@ A decoy/honeypot system for capturing and analyzing attacker behavior.
 
 #### 🛒 [AI-Powered E-Commerce Website](https://github.com/Harryharanhari/AI---powered-E-Commerce-Website-using-Cursor-AI)
 Full-stack TypeScript storefront, built with Cursor AI and **deployed live** → [shophub-navy.vercel.app](https://shophub-navy.vercel.app)
-
----
-
-### 📌 Pinned-Style Project Cards
-
-<p align="center">
-  <a href="https://github.com/Harryharanhari/Adaptive-Semantic-Shadow-AI-Firewall-for-Prompt-Injection-and-Jailbreak-attacks-in-Modern-LLM-s">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=Adaptive-Semantic-Shadow-AI-Firewall-for-Prompt-Injection-and-Jailbreak-attacks-in-Modern-LLM-s&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Harryharanhari/Advance-Network-IDS-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=Advance-Network-IDS-&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Harryharanhari/INSURE-AI-A-Multi-agent-For-Insurance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=INSURE-AI-A-Multi-agent-For-Insurance&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Harryharanhari/AI-Driven-Health-Center-and-Supply-Chain-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=AI-Driven-Health-Center-and-Supply-Chain-Management&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 

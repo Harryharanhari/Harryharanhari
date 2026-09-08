@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hari Haran V S 👋</h1>
-<h3 align="center">AI, Machine Learning / Data Science Engineer · Cybersecurity Enthusiast · Full-Stack AI Builder · Agentic Ai </h3>
+<h3 align="center">AI, Machine Learning / Data Science Engineer · Cybersecurity Enthusiast · Full-Stack AI Builder · Agentic AI </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA1F8&center=true&vCenter=true&width=600&lines=Building+LLM+Security+Systems;GAN-based+Adversarial+Defense+Research;Full-Stack+AI+Product+Engineer;Final+Year+B.Tech+AI+%26+Data+Science" alt="Typing SVG" />

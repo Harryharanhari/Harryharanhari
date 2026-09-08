@@ -1,196 +1,100 @@
-<div align="center">👋 Hi, I'm Hari Haran V S
+<h1 align="center">Hi, I'm Hari Haran 👋</h1>
+<h3 align="center">AI/Data Science Engineer · Cybersecurity Enthusiast · Full-Stack AI Builder</h3>
 
-🤖 AI & Data Science Student | 🔐 Cybersecurity Enthusiast | 💻 Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA1F8&center=true&vCenter=true&width=600&lines=Building+LLM+Security+Systems;GAN-based+Adversarial+Defense+Research;Full-Stack+AI+Product+Engineer;Final+Year+B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Machine+Learning+Explorer;Building+Real-World+Projects;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" /><br><br>
-
-<a href="https://github.com/Harryharanhari">
-<img src="https://komarev.com/ghpvc/?username=Harryharanhari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a><a href="https://github.com/Harryharanhari?tab=followers">
-<img src="https://img.shields.io/github/followers/Harryharanhari?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-</a></div>---
-
-🧑‍💻 About Me
-
-🎓 I'm a B.Tech student specializing in Artificial Intelligence and Data Science.
-
-🤖 I'm interested in building practical applications using Artificial Intelligence, Machine Learning, Data Science, and Deep Learning.
-
-🔐 I'm also passionate about Cybersecurity and Ethical Hacking, and interested in understanding how systems, networks, and applications can be secured.
-
-💡 I enjoy learning new technologies, experimenting with projects, solving programming problems, and turning ideas into working applications.
-
-🚀 My Interests
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science & Data Analytics
-- 🧠 Machine Learning
-- 🔬 Deep Learning
-- 👁️ Computer Vision
-- 🗣️ Generative AI & LLMs
-- 🔐 Cybersecurity
-- 🛡️ Ethical Hacking
-- 🌐 Web Applications
-- 💻 Software Development
+<p align="center">
+  <a href="https://www.linkedin.com/in/hari-haran01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Harryharanhari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-🛠️ Technologies & Tools
+### 🧑‍💻 About Me
 
-💻 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,bash" />
-</p>🤖 AI / ML / Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>"NumPy" • "Pandas" • "Scikit-learn" • "TensorFlow" • "Keras" • "OpenCV" • "Matplotlib"
-
-🔐 Cybersecurity
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
-</p>"Nmap" • "Wireshark" • "Burp Suite" • "Metasploit" • "Termux" • "Linux"
-
-«⚠️ Cybersecurity tools and techniques are used only for authorized testing, learning, and educational purposes.»
-
-🧰 Development & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,docker" />
-</p>"Google Colab" • "Streamlit" • "Jupyter Notebook"
+- 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science**, Achariya College of Engineering & Technology, Puducherry (CGPA 8.50, graduating 2027)
+- 🔐 Deeply interested in both **offensive and defensive cybersecurity**, with a growing research focus on **LLM security** (prompt injection, jailbreak defense, adversarial robustness)
+- 🛰️ Actively building across the stack — AI/ML systems, full-stack web apps, and security tooling
+- 🎯 Open to roles in **Data Analysis, Full-Stack AI Engineering, and SOC Analysis**
+- 🏆 Regular hackathon competitor, using it as an outlet to ship applied AI work fast
 
 ---
 
-🚀 Areas I'm Building In
+### 🚀 Flagship Projects
 
-<table>
-<tr>
-<td width="50%">🤖 Artificial Intelligence
+#### 🛡️ [Adaptive Semantic Shadow AI Firewall (AegisNet)](https://github.com/Harryharanhari/Adaptive-Semantic-Shadow-AI-Firewall-for-Prompt-Injection-and-Jailbreak-attacks-in-Modern-LLM-s)
+A research-grade semantic/rule-based **prompt-injection & jailbreak firewall** for LLMs, written up as an IEEE-format paper.
+- Rule engine spanning **English, Tamil, and Tanglish** keyword detection
+- **MiniLM-based semantic cosine-similarity scanner**, JSON threat memory, SOAR playbooks, and MITRE ATLAS–mapped multi-tier SOC response
+- v2.0 blueprint adds **RLATE (Q-learning adaptive thresholds)**, cross-lingual coverage (English/Tamil/Tanglish/Hindi/Arabic), an indirect-injection/RAG context scanner, and a behavioral anomaly profiler
+- Evaluated on a **282-prompt multilingual dataset**: **91.84% accuracy**, macro F1 of **0.92**
 
-- Machine Learning applications
-- Deep Learning models
-- Computer Vision
-- AI-powered applications
-- Generative AI
-- LLM-based applications
+#### 🕵️ [Advanced Network IDS](https://github.com/Harryharanhari/Advance-Network-IDS-)
+Adversarial-robust network intrusion detection, extending capstone research (ARDE) with a **GAN-based red/blue adversarial loop**.
+- Constraint-aware GAN generator + conditional GAN for attack-specific hardening
+- Real-time **SHAP explainability** and cross-dataset transfer testing (CICIDS-2017, KDD Cup 99, UNSW-NB15)
+- Built with PyTorch, TensorFlow/Keras, and Streamlit
 
-</td><td width="50%">🔐 Cybersecurity
+#### 🏦 [INSURE-AI — Multi-Agent System for Insurance](https://github.com/Harryharanhari/INSURE-AI-A-Multi-agent-For-Insurance)
+A multi-agent AI system automating insurance workflows end-to-end (Apache-2.0 licensed).
 
-- Network security
-- Ethical hacking
-- Linux security tools
-- Web security
-- Security testing
-- Cybersecurity fundamentals
+#### 🏥 [AI-Driven Health Center & Supply Chain Management](https://github.com/Harryharanhari/AI-Driven-Health-Center-and-Supply-Chain-Management)
+District-level PHC/CHC management platform built for the **Hack2Skill (Google-sponsored) hackathon**, Track 3: Smart Health.
+- Gemini API, Vertex AI, Firebase, Dialogflow CX, Flutter, and BigQuery
 
-</td>
-</tr>
-</table>---
+#### 🦠 [AI-Based Malware Detection System](https://github.com/Harryharanhari/AI---Based-Malware-Detection-System)
+ML-driven static/behavioral malware classification pipeline in Python.
 
-📌 Featured Projects
+#### 🎯 [HoneyPot Dungeon](https://github.com/Harryharanhari/-HoneyPot-Dungeon)
+A decoy/honeypot system for capturing and analyzing attacker behavior.
 
-🔎 Crime Data Analysis Dashboard
-
-An interactive data-analysis project focused on exploring crime datasets, identifying patterns, analyzing trends, and presenting insights through visualizations.
-
-Technologies: "Python" "Pandas" "Data Visualization"
+#### 🛒 [AI-Powered E-Commerce Website](https://github.com/Harryharanhari/AI---powered-E-Commerce-Website-using-Cursor-AI)
+Full-stack TypeScript storefront, built with Cursor AI and **deployed live** → [shophub-navy.vercel.app](https://shophub-navy.vercel.app)
 
 ---
 
-🧑‍💻 AI-Based Deepfake Detection
+### 🧩 More Projects Worth a Look
 
-A computer-vision project focused on identifying whether an image is Real or Fake using a deep-learning model.
-
-Technologies: "Python" "TensorFlow" "Keras" "OpenCV" "Streamlit"
-
----
-
-🫀 Heart Disease Prediction
-
-A machine-learning project that analyzes healthcare-related dataset features and predicts the possibility of heart disease.
-
-Technologies: "Python" "Pandas" "Scikit-learn" "Machine Learning"
-
----
-
-🌱 Smart Irrigation System
-
-An IoT project designed to monitor environmental conditions and support automated irrigation using sensors and Arduino.
-
-Technologies: "Arduino" "Sensors" "IoT"
+| Project | Focus |
+|---|---|
+| [AI Support Ticket Classifier](https://github.com/Harryharanhari/AI-Support-Ticket-Classifier) | NLP-based ticket triage |
+| [OpsPilot — AI Cloud Operations Copilot](https://github.com/Harryharanhari/OpsPilot-AI-Cloud-Operations-Copilot) | AI copilot for cloud ops |
+| [AI-Powered Business Intelligence Platform](https://github.com/Harryharanhari/Ai-Powered-Business-Intelligence-Platform) | BI dashboarding with AI insights |
+| [AI-Powered Gamified Python Learning Platform](https://github.com/Harryharanhari/AI-Powered-Gamified-Python-Learning-Platform) | Ed-tech + AI |
+| [AI-Based Medical Symptom Diagnosis System](https://github.com/Harryharanhari/AI-Based-Medical-Symptoms-Diagnosis-System) | Symptom-checker ML app |
+| [AI-Powered Resume Analyzer](https://github.com/Harryharanhari/AI_Powered_Resume_Analyzer) | Resume parsing & scoring |
+| [Phishing Detection System](https://github.com/Harryharanhari/Phishing-Detection-System) | ML-based phishing classifier |
+| [Basic Phishing Tool (Educational Demo)](https://github.com/Harryharanhari/Basic-Phishing-Tool-Creation-using-Python) | Security awareness demo |
+| [Text-to-Binary Encryption (Two-Phase Security)](https://github.com/Harryharanhari/Text-to-Binary-encryption-with-Two-phase-security) | Custom encryption scheme |
+| [LangChain Chatbot](https://github.com/Harryharanhari/Langchain_chatbot) | LLM-orchestrated chatbot |
+| [Basic Scitutor ChatBot](https://github.com/Harryharanhari/Basic-Scitutor-ChatBot) ⭐ | Science tutoring chatbot |
+| [Restaurant Name Generator (LangChain)](https://github.com/Harryharanhari/Restaurant_Name_Generator-using-LangChain) | LLM prompt-chaining demo |
 
 ---
 
-🌡️ Temperature & Humidity Monitoring
+### 📊 Data Analysis & Visualization
 
-An Arduino-based monitoring project using sensors to measure environmental conditions and display the readings.
-
-Technologies: "Arduino UNO" "DHT11" "LCD" "IoT"
-
----
-
-📊 GitHub Statistics
-
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Harryharanhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harryharanhari&layout=compact&theme=tokyonight&hide_border=true" /></div>---
-
-🔥 GitHub Streak
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=Harryharanhari&theme=tokyonight&hide_border=true" /></div>---
-
-📈 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Harryharanhari&theme=tokyo-night&hide_border=true&area=true" width="95%" /></div>---
-
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Harryharanhari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" /></div>---
-
-🎯 My Goals
-
-- 🚀 Build more real-world AI projects
-- 🤖 Explore Generative AI and LLMs
-- 🔐 Strengthen Cybersecurity & Ethical Hacking skills
-- 📊 Develop advanced Data Science applications
-- 💻 Improve Java and DSA
-- 🐍 Improve Python development
-- 🌐 Learn secure web application development
-- 🏆 Contribute to Open Source
-- 💼 Prepare for internships and placements
+- [Roman Bike Shop Analysis (SQL + Power BI)](https://github.com/Harryharanhari/Roman-bike-shop-Data-Analysis-Project-using-SQL-and-Power-BI)
+- [Swiggy Year-End Data Analysis](https://github.com/Harryharanhari/Swiggy-Year-end-Data-analysis)
+- [Shopping Mall Customer Segmentation](https://github.com/Harryharanhari/Shopping-Mall-Customer-Segmentation-Data-Analytics-Project-)
+- [Diabetes Prediction with Machine Learning](https://github.com/Harryharanhari/Diabets-Prediction-with-Machine-Learning)
 
 ---
 
-📚 Currently Exploring
+### 🛠️ Tech Stack
 
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🔬 Deep Learning
-📊 Data Science
-👁️ Computer Vision
-🗣️ Generative AI & LLMs
-🔐 Cybersecurity
-🌐 Web Security
-💻 Software Development
+**Languages:** Python · TypeScript/JavaScript · SQL
+**AI/ML:** PyTorch · TensorFlow/Keras · LangChain · Vertex AI · Gemini API · SHAP · MiniLM/Sentence-Transformers
+**Security:** MITRE ATLAS · SOAR · IDS/IPS design · Prompt-injection defense · Malware analysis
+**Data:** Power BI · Jupyter · Pandas/NumPy
+**Web/Cloud:** Firebase · Dialogflow CX · Flutter · BigQuery · Streamlit · Vercel
 
 ---
 
-🌐 Connect With Me
+### 📫 Reach Me
 
-<div align="center"><a href="https://github.com/Harryharanhari">
-<img src="https://img.shields.io/badge/GitHub-Harryharanhari-181717?style=for-the-badge&logo=github" />
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a></div>---
+[LinkedIn](https://www.linkedin.com/in/hari-haran01) · [GitHub](https://github.com/Harryharanhari)
 
-💡 Developer Mindset
-
-<div align="center">"Learn. Build. Break. Fix. Repeat. 🚀"
-
-Turning ideas into code and code into solutions.
-
-</div>---
-
-<div align="center">⭐ If you find my projects interesting, feel free to explore my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></div>
+<p align="center"><i>⭐ Currently deep in LLM security research and full-stack AI product builds — always open to collaborate.</i></p>

@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hari-haran01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Harryharanhari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=Harryharanhari&style=for-the-badge&color=2EA1F8&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
@@ -19,6 +20,29 @@
 - 🛰️ Actively building across the stack — AI/ML systems, full-stack web apps, and security tooling
 - 🎯 Open to roles in **Data Analysis, Full-Stack AI Engineering, and SOC Analysis**
 - 🏆 Regular hackathon competitor, using it as an outlet to ship applied AI work fast
+
+---
+
+### 📊 Live GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harryharanhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hari's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harryharanhari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harryharanhari&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harryharanhari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harryharanhari&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+> These widgets are live and update automatically on every profile view — no manual refresh needed. See **Setup Notes** at the bottom for the two things to turn on for them to render correctly.
 
 ---
 
@@ -55,6 +79,27 @@ Full-stack TypeScript storefront, built with Cursor AI and **deployed live** →
 
 ---
 
+### 📌 Pinned-Style Project Cards
+
+<p align="center">
+  <a href="https://github.com/Harryharanhari/Adaptive-Semantic-Shadow-AI-Firewall-for-Prompt-Injection-and-Jailbreak-attacks-in-Modern-LLM-s">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=Adaptive-Semantic-Shadow-AI-Firewall-for-Prompt-Injection-and-Jailbreak-attacks-in-Modern-LLM-s&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Harryharanhari/Advance-Network-IDS-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=Advance-Network-IDS-&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Harryharanhari/INSURE-AI-A-Multi-agent-For-Insurance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=INSURE-AI-A-Multi-agent-For-Insurance&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Harryharanhari/AI-Driven-Health-Center-and-Supply-Chain-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harryharanhari&repo=AI-Driven-Health-Center-and-Supply-Chain-Management&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🧩 More Projects Worth a Look
 
 | Project | Focus |
@@ -85,11 +130,22 @@ Full-stack TypeScript storefront, built with Cursor AI and **deployed live** →
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · TypeScript/JavaScript · SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,flutter,firebase,vercel,git,github,docker,postgres,mysql,figma&perline=8" alt="Tech stack icons" />
+</p>
+
 **AI/ML:** PyTorch · TensorFlow/Keras · LangChain · Vertex AI · Gemini API · SHAP · MiniLM/Sentence-Transformers
 **Security:** MITRE ATLAS · SOAR · IDS/IPS design · Prompt-injection defense · Malware analysis
 **Data:** Power BI · Jupyter · Pandas/NumPy
 **Web/Cloud:** Firebase · Dialogflow CX · Flutter · BigQuery · Streamlit · Vercel
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harryharanhari/Harryharanhari/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%" />
+</p>
 
 ---
 
@@ -98,3 +154,40 @@ Full-stack TypeScript storefront, built with Cursor AI and **deployed live** →
 [LinkedIn](https://www.linkedin.com/in/hari-haran01) · [GitHub](https://github.com/Harryharanhari)
 
 <p align="center"><i>⭐ Currently deep in LLM security research and full-stack AI product builds — always open to collaborate.</i></p>
+
+---
+
+<details>
+<summary><strong>⚙️ Setup Notes (click to expand)</strong></summary>
+
+Two of the "live" elements above need a one-time setup in your **`Harryharanhari/Harryharanhari`** repo to actually animate — they won't work just by pasting this file:
+
+1. **Contribution Snake** — go to `Settings → Actions → General` and enable Actions for the repo, then add this workflow file at `.github/workflows/snake.yml`:
+   ```yaml
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch:
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: Harryharanhari
+             outputs: dist/github-contribution-grid-snake.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
+   Run it once manually (`Actions → Generate Snake → Run workflow`) to create the `output` branch the image points to.
+
+2. **Streak / Stats / Activity Graph / Trophies** — these load from free public services (`github-readme-stats`, `github-readme-streak-stats`, `github-readme-activity-graph`, `github-profile-trophy`). They work out of the box with no setup, but can be slow to load the first time or occasionally rate-limited — if a card looks broken, refresh after a minute. If you'd rather have guaranteed uptime, you can self-host any of these via their linked repos on Vercel.
+
+</details>

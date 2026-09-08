@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hari Haran 👋</h1>
-<h3 align="center">AI/Data Science Engineer · Cybersecurity Enthusiast · Full-Stack AI Builder</h3>
+<h1 align="center">Hi, I'm Hari Haran V S 👋</h1>
+<h3 align="center">AI, Machine Learning / Data Science Engineer · Cybersecurity Enthusiast · Full-Stack AI Builder · Agentic Ai </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA1F8&center=true&vCenter=true&width=600&lines=Building+LLM+Security+Systems;GAN-based+Adversarial+Defense+Research;Full-Stack+AI+Product+Engineer;Final+Year+B.Tech+AI+%26+Data+Science" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 - 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science**, Achariya College of Engineering & Technology, Puducherry (CGPA 8.50, graduating 2027)
 - 🔐 Deeply interested in both **offensive and defensive cybersecurity**, with a growing research focus on **LLM security** (prompt injection, jailbreak defense, adversarial robustness)
-- 🛰️ Actively building across the stack — AI/ML systems, full-stack web apps, and security tooling
+- 🛰️ Actively building across the stack — AI/ML systems, Agentic AI, Gen AI, AI full-stack web apps, and security tooling
 - 🎯 Open to roles in **Data Analysis, Full-Stack AI Engineering, and SOC Analysis**
 - 🏆 Regular hackathon competitor, using it as an outlet to ship applied AI work fast
 
@@ -100,10 +100,16 @@ Full-stack TypeScript storefront, built with Cursor AI and **deployed live** →
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,flutter,firebase,vercel,git,github,docker,postgres,mysql,figma&perline=8" alt="Tech stack icons" />
 </p>
 
-**AI/ML:** PyTorch · TensorFlow/Keras · LangChain · Vertex AI · Gemini API · SHAP · MiniLM/Sentence-Transformers
-**Security:** MITRE ATLAS · SOAR · IDS/IPS design · Prompt-injection defense · Malware analysis
-**Data:** Power BI · Jupyter · Pandas/NumPy
-**Web/Cloud:** Firebase · Dialogflow CX · Flutter · BigQuery · Streamlit · Vercel
+**AI / ML**: Machine Learning, Generative AI, Prompt Engineering, Data Analysis, Data Science, Visualization Dashboards 
+**Gen AI Tools :** Claude Code, Chatgpt, Gemini (Omini, Flow etc.,), Antigravity, Lovable, Cursor 
+**Cybersecurity / SOC:** AI Security, Malware Analysis, Ethical Hacking, Cyber Forensics, Intrusion Detection and 
+Prevention (IDS/IPS), SOC Monitoring, SIEM Tools (Splunk, Elastic), Threat Detection, Incident Response · MITRE ATLAS · SOAR · Prompt-injection defense
+**Programming Languages:** Python, SQL, Bash 
+**Frameworks and Libraries:** Flask, FastAPI, REST API, NumPy, Pandas, Matplotlib, Scikit-learn 
+**Databases:** MySQL, PostgreSQL, MongoDB 
+**Cloud and DevOps Tools:** AWS, Git, GitHub, Docker, Power BI, Power Query, Microsoft Excel, Kubernetes, Jupyter 
+Notebook, Google Colab, UiPath 
+**Deployments Tools :** Vercel, Render, Railway, Streamlit, Netlify 
 
 ---
 
